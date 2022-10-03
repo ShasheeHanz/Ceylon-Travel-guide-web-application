@@ -2,7 +2,7 @@
 <head>
     <meta charest="utf-8">
     <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
-    <title>Ceylon - Sri lankan travel guide website</title>
+    <title>Ceylon Travel Guide Website</title>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 </head>
@@ -29,27 +29,27 @@
     <div class="content active">
         <h1>Beautiful<br><span>Beaches</span></h1>
         <p>Sri Lanka is a beautiful island surrounded by oceans. It has some of the most beautiful beaches and is a major tourist attraction. A large number of foreigners come to Sri Lanka every year to surf, dive, see coral reefs and watch bluewales.</p>
-        <a href="3">Read More</a>
+        <a href="3">read more...</a>
     </div>
     <div class="content">
         <h1>Meditation<br><span>Centers</span></h1>
         <p>As Sri Lanka is a Buddhist country, meditation has a special place in the world. There are many advanced meditation techniques used in Sri Lanka. Another fascinating feature of foreigners.</p>
-        <a href="3">Read More</a>
+        <a href="3">Read More...</a>
     </div>
     <div class="content">
         <h1>Beautiful<br><span>Destinations</span></h1>
         <p>Another interesting feature of Sri Lanka is the mountainous upcountry roads and the beautiful scenery on either side. It is very beautiful and attracts a lot of tourists.</p>
-        <a href="3">Read More</a>
+        <a href="3">read more...</a>
     </div>
     <div class="content">
         <h1>Beautiful<br><span>lakes</span></h1>
         <p>Sri Lanka has been a self-sufficient government since ancient times, a large number of lakes and rivers have been built throughout the country. These are of very ancient value and are believed to have been built about 1000 years ago.</p>
-        <a href="3">Read More</a>
+        <a href="3">read more...</a>
     </div>
     <div class="content">
         <h1>Adventure<br><span>Mountaineering</span></h1>
         <p>Sri Lanka consists of beautiful and large mountain ranges. Both locals and foreigners love to climb mountains in Sri Lanka. That's because of the ease and beauty of the place.</p>
-        <a href="3">Read More</a>
+        <a href="3">read more...</a>
     </div>
     <div class="media-icons">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
